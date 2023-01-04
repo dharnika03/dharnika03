@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharnika03&label=Profile%20views&color=0e75b6&style=flat" alt="dharnika03" /> </p>
 
-- 🔭 I’m currently working on **Attendance tracking hostel app**
+- 🔭 I’m currently working on **Deep Learning OCR Module with Handwritten Data**
 
 - 🌱 I’m currently learning **Java,C#**
 
