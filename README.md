@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **App Designing**
 
-- 🤝 I’m looking for help with **Machine learning**
+- 🤝 I’m looking for help with **Deep learning**
 
 - 💬 Ask me about **UI/UX**
 
